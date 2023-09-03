@@ -6,6 +6,6 @@
 <h1>Memeber of the Group 2</h1>
 <ol>
 <li>Arjan</li>
-<li>Mussaffer</li>
+<li>Muzaffar</li>
 <li>Rama</li>
 </ol>
